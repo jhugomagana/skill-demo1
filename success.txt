@@ -216,7 +216,7 @@ codePoints of readLine are:
 111
 49
 
-Time: 0.053
+Time: 0.052
 
 OK (3 tests)
 
